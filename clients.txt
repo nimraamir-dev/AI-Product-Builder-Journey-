@@ -1,0 +1,4 @@
+Zaid, 6000
+Ali, 8000
+Bilal, 7000
+Hina, 4000
