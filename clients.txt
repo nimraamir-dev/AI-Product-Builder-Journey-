@@ -1,4 +1,5 @@
 Zaid, 6000
 Ali, 8000
+baddata
 Bilal, 7000
 Hina, 4000
